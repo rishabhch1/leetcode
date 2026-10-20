@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rishabhch1/leetcode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/rishabhch1/leetcode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/rishabhch1/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishabhch1/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
