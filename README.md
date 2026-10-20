@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishabhch1/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rishabhch1/leetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/rishabhch1/leetcode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/rishabhch1/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishabhch1/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishabhch1/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rishabhch1/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabhch1/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishabhch1/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishabhch1/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rishabhch1/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabhch1/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rishabhch1/leetcode/tree/master/0038-count-and-say) |
