@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishabhch1/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rishabhch1/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rishabhch1/leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/rishabhch1/leetcode/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/rishabhch1/leetcode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/rishabhch1/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishabhch1/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rishabhch1/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rishabhch1/leetcode/tree/master/0049-group-anagrams) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhch1/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishabhch1/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rishabhch1/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/rishabhch1/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
