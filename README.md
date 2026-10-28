@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rishabhch1/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rishabhch1/leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabhch1/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0817-linked-list-components](https://github.com/rishabhch1/leetcode/tree/master/0817-linked-list-components) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishabhch1/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rishabhch1/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rishabhch1/leetcode/tree/master/0049-group-anagrams) |
+| [0817-linked-list-components](https://github.com/rishabhch1/leetcode/tree/master/0817-linked-list-components) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishabhch1/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishabhch1/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/rishabhch1/leetcode/tree/master/2942-find-words-containing-character) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabhch1/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rishabhch1/leetcode/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/rishabhch1/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0817-linked-list-components](https://github.com/rishabhch1/leetcode/tree/master/0817-linked-list-components) |
 ## Recursion
 |  |
 | ------- |
