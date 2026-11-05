@@ -1,20 +1,20 @@
+// ✅ Approach 1: Extra Space (Preorder Traversal)
 class Solution {
     public void flatten(TreeNode root) {
-        Queue<TreeNode> q = new LinkedList<>();
-        insert(root, q);
-        q.poll(); // skip the original root since we'll relink from it
-        while (!q.isEmpty()) {
-            root.right = q.poll(); // connect to next node
-            root.left = null;      // left should be null in linked list
-            root = root.right;
+        if (root == null) return;
+        List<TreeNode> nodes = new ArrayList<>();
+        preorder(root, nodes);
+
+        for (int i = 0; i < nodes.size() - 1; i++) {
+            nodes.get(i).left = null;
+            nodes.get(i).right = nodes.get(i + 1);
         }
     }
 
-    // Preorder traversal to collect nodes
-    void insert(TreeNode node, Queue<TreeNode> queue) {
+    private void preorder(TreeNode node, List<TreeNode> nodes) {
         if (node == null) return;
-        queue.add(node);
-        insert(node.left, queue);
-        insert(node.right, queue);
+        nodes.add(node);
+        preorder(node.left, nodes);
+        preorder(node.right, nodes);
     }
 }
