@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabhch1/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rishabhch1/leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/rishabhch1/leetcode/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/rishabhch1/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishabhch1/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/rishabhch1/leetcode/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishabhch1/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rishabhch1/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/rishabhch1/leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhch1/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0344-reverse-string](https://github.com/rishabhch1/leetcode/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
 | ------- |
