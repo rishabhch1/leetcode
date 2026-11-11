@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabhch1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rishabhch1/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rishabhch1/leetcode/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/rishabhch1/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabhch1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rishabhch1/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rishabhch1/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabhch1/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/rishabhch1/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rishabhch1/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
